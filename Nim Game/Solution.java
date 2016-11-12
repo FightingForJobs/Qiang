@@ -1,6 +1,6 @@
 
 public class Solution {
-	public boolean canWinNim(int n) {
-        haha
+    public boolean canWinNim(int n) {
+        return (n%4)>0;
     }
 }
